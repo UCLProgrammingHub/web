@@ -1,0 +1,25 @@
+crumbs:
+- link: /
+  text: UCL
+contact: http://www.ucl.ac.uk/research-it-services/partner-with-us
+
+defaults:
+ -
+  scope:
+    path: ""
+  values:
+    layout: default
+title: UCL Research Programming Hub
+includeleftnav: True
+
+findfast:
+  title: Quick Links 1
+  items:
+  - link: http://development.rc.ucl.ac.uk/training
+    text: training
+
+myucl:
+  title: Quick Links 2
+  items:
+  - link: http://development.rc.ucl.ac.uk/training
+    text: training
