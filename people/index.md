@@ -12,3 +12,5 @@ under the authority of the
 The steering group is:
 
 * [Dr James Hetherington](https://www.ucl.ac.uk/research-it-services/our-people/james)
+* [Dr Ian Sillitoe] (http://www.biochem.ucl.ac.uk/~sillitoe/)
+* [Dr Daniel Buchan] (http://www.cs.ucl.ac.uk/people_new/D.Buchan.html/)
