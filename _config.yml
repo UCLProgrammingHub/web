@@ -12,7 +12,7 @@ includeleftnav: True
 findfast:
   title: Quick Links
   items:
-  - link: socials 
+  - link: events 
     text: Research Programming Technical Socials
   - link: affiliates
     text: Affiliated groups and institutes
