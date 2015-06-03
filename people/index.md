@@ -11,4 +11,4 @@ under the authority of the
 
 The steering group is:
 
-* Dr James Hetherington
+* [Dr James Hetherington](https://www.ucl.ac.uk/research-it-services/our-people/james)
