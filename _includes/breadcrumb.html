@@ -9,11 +9,11 @@
 		{% endif %}
   		{% if page.crumbs %}
 			{% for crumb in page.crumbs %}
-			<li><a href="http://www.ucl.ac.uk/{{crumb.link}}">{{crumb.text}}</a></li>
+			<li><a href="/hub/{{crumb.link}}">{{crumb.text}}</a></li>
 			{% endfor %}
 		{% endif %}
 		{% if page.short %}
-			<li><a href="page.url">{{page.short}}</a></li>
+      <li><a href="/hub/{{page.url}}">{{page.short}}</a></li>
 		{% endif %}
  	</ul>
 </nav>
