@@ -19,3 +19,4 @@ The steering group is:
 * [Dr Ian Sillitoe](http://www.biochem.ucl.ac.uk/~sillitoe/)
 * [Dr Daniel Buchan](http://www.cs.ucl.ac.uk/people_new/D.Buchan.html/)
 * [Dr Ulf Schiller](http://www.lattice-boltzmann.de)
+* [Dr Matthew Farrow](http://www.ucl.ac.uk/klmc/People/Farrow.html)
