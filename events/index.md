@@ -22,10 +22,10 @@ One such thread will be the "Research Programming Technical Socials":
 
 > These will be held regularly, 1630-1745, with a format as follows:
 
-> 1630-1640: Initial mingling and settling in. Refreshments.
-> 1640-1710: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
-> 1710-1715: Break. Further refreshments.
-> 1715-1745: Group discussion of a matter of interest to programming scientists, inspired by the talk or another question.
-> 1745:      Retire to an appropriate social venue.
+> * 1630-1640: Initial mingling and settling in. Refreshments.
+> * 1640-1710: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
+> * 1710-1715: Break. Further refreshments.
+> * 1715-1745: Group discussion of a matter of interest to programming scientists, inspired by the talk or another question.
+> * 1745:      Retire to an appropriate social venue.
 
 We're looking for volunteers to lead one of these events. If you're interested please contact j.hetherington@ucl.ac.uk
