@@ -15,3 +15,4 @@ The following UCL groups are affiliated to the Research Programming Hub
 * [UCL CS Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/)
 * [CATH Database](http://www.cathdb.info/)
 * [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl)
+* [Astrophysics Group](http://www.ucl.ac.uk/star/)
