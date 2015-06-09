@@ -20,4 +20,4 @@ The steering group is:
 * [Dr Daniel Buchan](http://www.cs.ucl.ac.uk/people_new/D.Buchan.html/)
 * [Dr Ulf Schiller](http://www.lattice-boltzmann.de)
 * [Dr Matthew Farrow](http://www.ucl.ac.uk/klmc/People/Farrow.html)
-* [Dr Marzia Rivi] (http://www.ucl.ac.uk/star/people/marziarivi)
+* [Dr Marzia Rivi](http://www.ucl.ac.uk/star/people/marziarivi)
