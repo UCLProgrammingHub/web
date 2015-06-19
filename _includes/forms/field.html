@@ -1,0 +1,12 @@
+{% load indigo %}
+
+<fieldset class="form__group">
+  <label for="{{ field.id_for_label }}">{{ field.label }}:
+    {% if field.field.required %}
+      <abbr title="Required">*</abbr>
+    {% endif %}
+  </label>
+  {{ field }}
+  {% indigo_field_errors field %}
+</fieldset>
+

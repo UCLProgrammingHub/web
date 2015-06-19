@@ -1,87 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset=utf-8 />
-<meta name="author" content="UCL" />
-<meta name="description" content="{{page.title}}" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-{% include social.html %}
+{% capture body_class %}layout-vertical layout-vertical--nav-1col{% endcapture %}
 
-<title>{{page.title}}</title>
+{% capture content_body %}
 
-<link href="/css/screen.min.css" media="screen, projection" rel="stylesheet" type="text/css" />
-<link href="/css/yoursite.css" media="screen, projection" rel="stylesheet" type="text/css" />
-<!--[if IE]><link href="/css/ie.min.css" rel="stylesheet" /><![endif]-->
-<!--[if lt IE 8]><link href="/css/ie-old.min.css" rel="stylesheet" /><![endif]-->
+  <div class="site-content__main">
+    {{ content }}
+  </div>
 
+{% endcapture %}
 
-<link rel="shortcut icon" href="/images/favicon.ico" />
-<link rel="apple-touch-icon-precomposed" href="favicon-152.png">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="favicon-144.png">
-
-{% include scripts.html %}
-
-</head>
-
-<body id="index">
-
-	{% include navigation.html %}
-
-		<div id="site-content" class="wrapper">
-
-			<header id="header-mobile" class="default-header">
-
-				<a id="nav-mobile-menu" href="#"><img src="./images/mob-nav.png" alt="Menu" /></a>
-
-			</header>
-
-		  <div id="main" class="clearfix">
-
-				<div id="content">
-
-					{% include breadcrumb.html %}
-
-					<!-- start main slot where silva content gets rendered-->
-
-					<div class="content-main">
-
-						<article>
-
-								<h1>{{page.title}}</h1>
-
-							{{content}}
-
-
-							</article>
-
-						<p class="mod">Page last modified on <span class="lastMod">{{ 'now' | date: "%d %h %y %H:%M" }}</span>
-						</p>
-
-					</div>
-
-					{% if page.sidebar %}
-					<div class="content-sidebar">
-
-						<h1>{{ page.sidebar.title }}</h1>
-
-						<p>{{ page.sidebar.text }}</p>
-
-					</div>
-					{% endif %}
-
-					<!-- end main slot where silva content gets rendered-->
-
-				</div>
-
-				<!--End last modified info-->
-			</div>
-
-
-		</div><!-- end #site-content -->
-
-		{% include footer.html %}
-
-</body>
-</html>
+{% include base.html %}

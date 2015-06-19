@@ -1,34 +1,32 @@
-{% if site.masthead %}
-<nav id="global-masthead">
+<div class="masthead">
 
-	<div class="wrapper clearfix">
+  <div class="wrapper clearfix">
 
-		<div id="global-search">
-			<form action="#" method="get">
-				<!--
-				<div class="search-type">
-					<input type="radio" id="ucl-site" name="operation" value="1" checked="checked">
-					<label for="ucl-site" class="site">Site</label>
-					<input type="radio" id="ucl-search" name="operation" value="2">
-					<label for="ucl-search" class="staff">Directory</label>
-				</div>
-				-->
-				<div id="searchform">
-					<input type="search" placeholder="Search UCL websites, people, and more" id="search" value="">
-				</div>
+    <div class="masthead__search">
+      <form action="//search2.ucl.ac.uk/s/search.html" method="get">
+        <div class="search-form">
+          <input type="search" placeholder="Search UCL websites" class="search-form__input search-form__input--search" value="">
+        </div>
+        <input type="hidden" name="collection" value="website-meta">
+        <input type="hidden" name="profile" value="_website">
+        <input type="hidden" name="tab" value="websites">
+        <input type="submit" name="submit" value="Go" class="btn btn--primary search-form__input search-form__input--submit" />
+      </form>
+    </div>
 
-				<input type="submit" name="sumbit" value="Go" class="btn search" />
-			</form>
+    <nav class="masthead__nav m-clear">
+      <ul class="masthead__list">
+        <li class="masthead__item"><a href="index.php" class="masthead__link">UCL Home</a>
+        </li>
+        <li class="masthead__item"><a href="prospective-students.php" class="masthead__link">Prospective students</a>
+        </li>
+        <li class="masthead__item"><a href="current-students.php" class="masthead__link">Current students</a>
+        </li>
+        <li class="masthead__item"><a href="staff.php" class="masthead__link">Staff</a>
+        </li>
+      </ul>
+    </nav>
 
+  </div>
 
-		</div>
-
-		<ul id="audiences" class="m-clear">
-			{% for item in site.masthead %}
-			<li><a href="{{item.link}}">{{item.text}}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
-
-</nav>
-{% endif %}
+</div><!-- end .masthead -->

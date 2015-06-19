@@ -1,0 +1,17 @@
+{% extends "indigo/base.html" %}
+
+{% block body_class %}layout-horizontal layout-horizontal--nav-2col{% endblock %}
+
+{% block content_body %}
+
+  <div class="site-content__main">
+    {% block content %}
+    {% endblock %}
+  </div>
+
+  <div class="site-content__sidebar">
+    {% block content_sidebar %}
+    {% endblock %}
+  </div>
+
+{% endblock %}

@@ -1,45 +1,67 @@
-
-<footer class="wrapper clearfix">
-
-	{% if site.myucl %}
-		<article class="block-myucl">
-			<h2>{{site.myucl.title}}</h2>
-			<ul>
-			{% for item in site.myucl.items %}
-			<li><a href="{{item.link}}">{{item.text}}</a></li>
-			{% endfor %}
-			</ul>
-		</article>
-	{% endif %}
-
-	{% if site.findfast %}
-	<article class="block-finditfast1">
-		<h2>{{site.findfast.title }}</h2>
-		<ul>
-			{% for fast in site.findfast.items %}
-			<li><a href="/hub/{{fast.link}}">{{fast.text}}</a></li>
-			{% endfor %}
-		</ul>
-	</article>
-	{% endif %}
-
-	{% if page.findfast %}
-	<article class="block-finditfast2">
-		<h2>{{page.findfast.title}}</h2>
-		<ul>
-			{% for fast in page.findfast.items %}
-			<li><a href="{{fast.link}}">{{fast.text}}</a></li>
-			{% endfor %}
-		</ul>
-
-	</article>
-	{% endif %}
-
-	<hr>
-
-	<p>University College London,&nbsp;Gower Street,&nbsp;London,&nbsp;WC1E 6BT&nbsp;Tel:&nbsp;+44&nbsp;(0)&nbsp;20 7679 2000</p>
-
-	<p id="footer-links">Copyright © 2013 UCL <a href="http://www.ucl.ac.uk/disclaimer/">Disclaimer</a> | <a href="#">Freedom of Information</a> | <a href="http://www.ucl.ac.uk/accessibility/">Accessibility</a> | <a href="http://www.ucl.ac.uk/privacy">Privacy</a> | <a href="http://www.ucl.ac.uk/cookies">Cookies</a> | <a href="{{site.contact}}">Contact Us</a></p>
-
+<footer class="footer wrapper">
+  <div class="footer__inner clearfix">
+    <article class="block block--col-1">
+      <h2 class="as-h5">Undergraduate</h2>
+      <ul class="footer__list list-unstyled">
+        <li class="footer__item"><a href="">Widening Participation</a>
+        </li>
+        <li class="footer__item"><a href="">International Students</a>
+        </li>
+        <li class="footer__item"><a href="">Scholarships and Funding</a>
+        </li>
+        <li class="footer__item"><a href="">Accommodation</a>
+        </li>
+        <li class="footer__item"><a href="">Request content update</a>
+        </li>
+        <li class="footer__item"><a href="">Request printed information</a>
+        </li>
+      </ul>
+    </article>
+    <article class="block block--col-2">
+      <h2 class="as-h5">Facilities</h2>
+      <ul class="footer__list list-unstyled">
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/departments/faculties">Faculties and departments</a>
+        </li>
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/library/">Library</a>
+        </li>
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/museums">Museums and Collections</a>
+        </li>
+        <li class="footer__item"><a href="http://www.thebloomsbury.com/">UCL Bloomsbury Theatre</a>
+        </li>
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/maps">Maps and buildings</a>
+        </li>
+      </ul>
+    </article>
+    <article class="block block--col-3">
+      <h2 class="as-h5">Locations</h2>
+      <ul class="footer__list list-unstyled">
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/london">UCL and London</a>
+        </li>
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/australia#">UCL Australia</a>
+        </li>
+        <li class="footer__item"><a href="http://www.ucl.ac.uk/qatar">UCL Qatar</a>
+        </li>
+      </ul>
+      <p class="text-muted small">Page created on <time datetime="{{ site.time }}">{{site.time}}</time></p>
+    </article>
+    <hr class="clear">
+    <ul class="footer__list list-unstyled zero-bottom">
+      <li class="footer__item text-muted small">University College London,&nbsp;Gower Street,&nbsp;London,&nbsp;WC1E 6BT&nbsp;Tel:&nbsp;+44&nbsp;(0)&nbsp;20 7679 2000</li>
+    </ul>
+    <ul class="list-inline footer__list list-unstyled list-inline--divided">
+      <li class="text-muted small">Copyright © {{ site.time }} UCL</li>
+      <li class="text-muted small"><a href="#">Disclaimer</a>
+      </li>
+      <li class="text-muted small"><a href="#">Freedom of Information</a>
+      </li>
+      <li class="text-muted small"><a href="#">Accessibility</a>
+      </li>
+      <li class="text-muted small"><a href="#">Privacy</a>
+      </li>
+      <li class="text-muted small"><a href="#">Cookies</a>
+      </li>
+      <li class="text-muted small"><a href="#">Contact Us</a>
+      </li>
+    </ul>
+  </div>
 </footer>
-

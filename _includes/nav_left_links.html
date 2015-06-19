@@ -1,0 +1,11 @@
+{% if site.includeleftnav%}
+		<li><a href="http://ucl.ac.uk" class="home-link">UCL</a></li>
+		{% for place in site.leftnav %}
+			<li><a href="{{place.link}}">{{place.text}}</a></li>
+		{% endfor %}
+		{% for page in site.pages %}
+			{% if page.showinmenu %}
+			<li><a href="{{page.url}}">{{page.short}}</a></li>
+			{% endif %}
+		{% endfor %}
+{% endif %}

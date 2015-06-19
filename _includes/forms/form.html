@@ -1,0 +1,11 @@
+{% load indigo %}
+
+{% indigo_form_errors form %}
+
+{% for hidden in form.hidden_fields %}
+  {{ hidden }}
+{% endfor %}
+
+{% for field in form.visible_fields %}
+  {% indigo_field field %}
+{% endfor %}

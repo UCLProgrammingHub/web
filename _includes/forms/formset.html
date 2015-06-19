@@ -1,0 +1,9 @@
+{% load indigo %}
+
+{{ formset.management_form }}
+
+{% for form in formset %}
+  <div class="formset--form">
+    {% indigo_form form %}
+  </div>
+{% endfor %}
