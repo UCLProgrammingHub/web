@@ -1,5 +1,4 @@
 ---
-short: Programming Hub
 title: UCL Research Programming Hub 
 showinmenu: False
 layout: default

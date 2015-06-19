@@ -8,13 +8,4 @@ defaults:
     layout: default
 title: UCL Research Programming Hub
 includeleftnav: True
-
-findfast:
-  title: Quick Links
-  items:
-  - link: events 
-    text: Research Programming Technical Socials
-  - link: affiliates
-    text: Affiliated groups and institutes
-  - link: friends
-    text: Non-UCL organisations we like
+short: Programming Hub

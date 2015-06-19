@@ -3,9 +3,6 @@ short: Teaching
 title: Research Programming Courses in UCL
 showinmenu: True
 layout: default
-crumbs:
-- link: /
-  text: Programming Hub
 ---
 
 The following are some research programming courses in UCL we know about:

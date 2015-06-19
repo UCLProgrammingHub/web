@@ -3,9 +3,6 @@ short: Events
 title: Events Programme 
 showinmenu: True
 layout: default
-crumbs:
-- link: /
-  text: Programming Hub
 ---
 
 We will be organising a series of events in UCL to bring the research programming community together.
