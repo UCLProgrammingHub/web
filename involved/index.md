@@ -1,11 +1,14 @@
 ---
-short: Events
-title: Events Programme 
+short: Involved
+title: Get involved!
 showinmenu: True
 layout: default
 ---
 
-We will be organising a series of events in UCL to bring the research programming community together.
+We get together as a community in a [Slack](https://ucl-programming-hub.slack.com/) instant messaging channel on the web.
+Please join us by signing up with an @ucl.ac.uk email address.
+
+In addition, we will be organising a series of events in UCL to bring the research programming community together.
 
 One such thread will be the "Research Programming Technical Socials":
 
