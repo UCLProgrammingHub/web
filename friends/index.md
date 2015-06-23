@@ -6,4 +6,4 @@ layout: default
 ---
 
 * [The Software Sustainability Institute](http://software.ac.uk)
-* [The UK Community of Research Software Engineers](http://rse.ac.uk)
+* [The UK Community of Research Software Engineers](http://www.rse.ac.uk)
