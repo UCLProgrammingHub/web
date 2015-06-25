@@ -9,5 +9,3 @@ defaults:
 title: UCL Research Programming Hub
 includeleftnav: True
 short: Programming Hub
-
-baseurl: /hub

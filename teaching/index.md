@@ -1,5 +1,5 @@
 ---
-short: Teaching
+short: Teaching and Training
 title: Research Programming Courses in UCL
 showinmenu: True
 layout: default
