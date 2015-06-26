@@ -21,5 +21,6 @@ The steering group is:
 * [Dr Ulf Schiller](http://www.lattice-boltzmann.de)
 * [Dr Matthew Farrow](http://www.ucl.ac.uk/klmc/People/Farrow.html)
 * [Dr Marzia Rivi](http://www.ucl.ac.uk/star/people/marziarivi)
+* [Dr David Wright](http://ccs.chem.ucl.ac.uk/~dave)
 
 If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
