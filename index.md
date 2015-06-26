@@ -4,8 +4,11 @@ showinmenu: False
 layout: default
 ---
 
-The University College London Research Programming Hub brings together research groups across the college
-who develop software for research. We are committed to:
+Welcome to the pages for the University College London Research Programming Hub.
+
+The hub brings together research groups across the college who develop software for research. 
+
+We are committed to:
 
 * The development of high-quality, reusable, well-tested, reliable software for research
 * The importance of readable code as a form of scholarly communication
