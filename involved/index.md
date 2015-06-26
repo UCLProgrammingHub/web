@@ -10,18 +10,19 @@ Please join us by signing up with an @ucl.ac.uk email address.
 
 In addition, we will be organising a series of events in UCL to bring the research programming community together.
 
-One such thread will be the "Research Programming Technical Socials":
+One such thread will be the "Research Programming Technical Socials", which haven't started yet, but which
+will take the following format:
 
 > Are you a UCL student or staff member who writes or uses software for research? 
 > Would you like to? Is using or making software part of your scientific or scholarly life?
-
-> Please join us for the 2015 UCL Research Computing Technical Socials.
-
+>
+> Please join us for the UCL Research Programming Technical Socials.
+>
 > In these informal events, you can learn about useful tools and techniques which will help with your research
 > while meeting other students and staff who use computers for science.
-
+>
 > These will be held regularly, 1630-1745, with a format as follows:
-
+>
 > * 1630-1640: Initial mingling and settling in. Refreshments.
 > * 1640-1710: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
 > * 1710-1715: Break. Further refreshments.
