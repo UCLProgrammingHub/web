@@ -3,9 +3,6 @@ short: People
 title: The steering group 
 showinmenu: True
 layout: default
-crumbs:
-- link: /
-  text: Programming Hub
 ---
 
 The UCL Research Programming Hub is being pulled together by a steering group,
