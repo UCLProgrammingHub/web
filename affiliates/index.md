@@ -15,5 +15,6 @@ The following UCL groups are affiliated to the Research Programming Hub
 * [CATH Database](http://www.cathdb.info/)
 * [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl)
 * [Astrophysics Group](http://www.ucl.ac.uk/star/)
+* [High-Energy Physics Group](http://www.hep.ucl.ac.uk/)
 
 If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/affiliates/index.md) on GitHub.
