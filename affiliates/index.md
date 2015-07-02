@@ -7,7 +7,7 @@ layout: default
 
 The following UCL groups are affiliated to the Research Programming Hub
 
-* [The Research Software Development Group](http://development.rc.ucl.ac.uk/)
+* [The Research Software Development Group](http://www.ucl.ac.uk/research-it-services/our-work/research-software-development)
 * [The Centre for Computational Science](http://ccs.chem.ucl.ac.uk/)
 * [UCL CS Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/)
 * [Orengo Group (Structural Bioinformatics)](http://www.ucl.ac.uk/orengo-group)
