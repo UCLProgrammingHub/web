@@ -8,6 +8,8 @@ layout: default
 We get together as a community in a [Slack](https://ucl-programming-hub.slack.com/) instant messaging channel on the web.
 Please join us by signing up with an @ucl.ac.uk email address.
 
+Another way to get involved is to turn up to our regular coffee mornings, which take place every Wednesday at 10.15 in the [Housman Room](http://www.ucl.ac.uk/maps/housman-room).
+
 In addition, we will be organising a series of events in UCL to bring the research programming community together.
 
 One such thread will be the "Research Programming Technical Socials", which haven't started yet, but which
@@ -21,7 +23,7 @@ will take the following format:
 > In these informal events, you can learn about useful tools and techniques which will help with your research
 > while meeting other students and staff who use computers for science.
 >
-> These will be held regularly, 1630-1745, with a format as follows:
+> These will be held regularly, 16.30-17.45, with a format as follows:
 >
 > * 1630-1640: Initial mingling and settling in. Refreshments.
 > * 1640-1710: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
