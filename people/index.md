@@ -20,5 +20,6 @@ The steering group is:
 * [Dr Marzia Rivi](http://www.ucl.ac.uk/star/people/marziarivi)
 * [Dr David Wright](http://ccs.chem.ucl.ac.uk/~dave)
 * [Dr Matt Clarkson](http://cmic.cs.ucl.ac.uk/staff/matt_clarkson/)
-
+* [Dr Tomas Lazauskas](http://www.ucl.ac.uk/klmc/People/Lazauskas.html)
+* 
 If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
