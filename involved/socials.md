@@ -28,7 +28,7 @@ Scheduled events:
 
 Previous events
 
-* Wednesday 9 September 2015: Dr Ulf Schiller, "Numerical Approximation, Friend or Foe?"
+* Wednesday 9 September 2015: Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 
 We're looking for volunteers to lead these events in 2016. 
 If you're interested please contact j.hetherington@ucl.ac.uk
