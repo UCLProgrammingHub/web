@@ -22,8 +22,8 @@ These are held monthly, 16.30-18.00, with a format as follows:
 
 Scheduled events:
 
-* Wednesday 14 October 2015: Ian Sillitoe, "Scalable Web Engineering at UCL"
-* Tuesday 10 November 2015: Marzia Rivi, "Parallel programming: a brief discussion"
+* Wednesday 14 October 2015: Dr Ian Sillitoe, "Scalable Web Engineering at UCL"
+* Tuesday 10 November 2015: Dr Marzia Rivi, "Parallel programming: a brief discussion"
 * Wednesday 9 December 2015
 
 Previous events
