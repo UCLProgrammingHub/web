@@ -24,7 +24,7 @@ Scheduled events:
 
 * Wednesday 14 October 2015: Dr Ian Sillitoe, "Scalable Web Engineering at UCL"
 * Tuesday 10 November 2015: Dr Marzia Rivi, "Parallel programming: a brief discussion"
-* Wednesday 9 December 2015
+* Wednesday 9 December 2015: Dr Dan Buchan, "Not Invented Here"
 
 Previous events
 
