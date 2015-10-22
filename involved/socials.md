@@ -22,12 +22,12 @@ These are held monthly, 16.30-18.00, with a format as follows:
 
 Scheduled events:
 
-* Wednesday 14 October 2015: Dr Ian Sillitoe, "Scalable Web Engineering at UCL" ([Tickets](http://bit.ly/uclrsdsocial2))
 * Tuesday 10 November 2015: Dr Marzia Rivi, "Parallel programming: a brief discussion"
 * Wednesday 9 December 2015: Dr Dan Buchan, "Not Invented Here"
 
 Previous events
 
+* Wednesday 14 October 2015: Dr Ian Sillitoe, "Scalable Web Engineering at UCL"
 * Wednesday 9 September 2015: Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 
 We're looking for volunteers to lead these events in 2016. 
