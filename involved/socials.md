@@ -27,8 +27,8 @@ Scheduled events:
 
 Previous events
 
-* Wednesday 14 October 2015: Dr Ian Sillitoe, "Scalable Web Engineering at UCL"
+* Wednesday 14 October 2015: Dr Ian Sillitoe, ["Scalable Web Engineering at UCL"](./socials-20151014-sillitoe.pdf)
 * Wednesday 9 September 2015: Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 
-We're looking for volunteers to lead these events in 2016. 
+We're looking for volunteers to lead these events in 2016.
 If you're interested please contact j.hetherington@ucl.ac.uk
