@@ -1,5 +1,8 @@
 ---
+short: Socials
 title: NVidia GPU Research Center
+showinmenu: True
+layout: default
 ---
 
 UCL NVidia GPU Research Center
