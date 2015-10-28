@@ -32,4 +32,4 @@ to present some examples of UCL research in this space. Formal talks and discuss
 to enable discussion and networking in the North Cloisters
 over refreshments. Poster pods will be available for researcher groups to present their work using 
 accelerators and GPUs; if you wish to display a poster, please send a copy to j.hetherington@ucl.ac.uk, 
-the best poster will receive a small prize from Nvidia.
+the best poster will receive a small prize from Nvidia. Space is limited -- please register through [Eventbrite](http://ucl-nvidia-town-hall.eventbrite.co.uk)
