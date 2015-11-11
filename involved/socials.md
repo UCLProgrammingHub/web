@@ -22,11 +22,11 @@ These are held monthly, 16.30-18.00, with a format as follows:
 
 Scheduled events:
 
-* Tuesday 10 November 2015: Dr Marzia Rivi, "Parallel programming: a brief discussion"
 * Wednesday 9 December 2015: Dr Dan Buchan, "Not Invented Here"
 
 Previous events
 
+* Tuesday 10 November 2015: Dr Marzia Rivi, ["Parallel programming: a brief discussion"](./socials-20151110-rivi.pdf)
 * Wednesday 14 October 2015: Dr Ian Sillitoe, ["Scalable Web Engineering at UCL"](./socials-20151014-sillitoe.pdf)
 * Wednesday 9 September 2015: Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 
