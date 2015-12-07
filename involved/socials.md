@@ -23,6 +23,7 @@ These are held monthly, 16.30-18.00, with a format as follows:
 Scheduled events:
 
 * Wednesday 9 December 2015: Dr Dan Buchan, "Stop Writing So Much Code"
+* [Register through Eventbrite](https://www.eventbrite.co.uk/e/research-programming-technical-social-december-2015-tickets-19888564231)
 
 > Computer Science and Software development are notoriously hard and complicated. Nevetheless programmers frequently prefer to implement their own solutions to problems rather that utilise the work of others. In this talk, I'll look at reasons for this behaviour, the pitfalls it can cause your projects and hopefully give you sufficient insight to avoid falling in to this trap yourself.
 
