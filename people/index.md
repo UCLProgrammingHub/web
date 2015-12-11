@@ -1,13 +1,24 @@
 ---
-short: People 
-title: The Steering Group 
+short: People
+title: The Steering Group
 showinmenu: True
 layout: default
 ---
 
+Steering group
+--------------
+
 The UCL Research Programming Hub is being pulled together by a steering group,
-under the authority of the 
+under the authority of the
 [Research Software Development Governance Group](http://www.ucl.ac.uk/isd/about/governance/research-it/research-software-group)
+
+Join Us
+-------
+
+If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
+
+Membership
+----------
 
 The steering group is:
 
@@ -20,5 +31,3 @@ The steering group is:
 * [Dr David Wright](http://ccs.chem.ucl.ac.uk/~dave)
 * [Dr Matt Clarkson](http://cmic.cs.ucl.ac.uk/staff/matt_clarkson/)
 * [Dr Tomas Lazauskas](http://www.ucl.ac.uk/klmc/People/Lazauskas.html)
-* 
-If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
