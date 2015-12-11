@@ -39,3 +39,10 @@ These are held monthly, 16.30-18.00, with a format as follows:
 * 1800:      Retire to an appropriate social venue.
 
 You can see the slides from past events on our [talks page](../presentations)
+
+Upcoming events: (Preliminary titles TBC.)
+
+11 January 2016: Derek Groen: "Deploying code to multiple supercomputers."
+11 February 2016: Jeremy Appleyard: "Profiling for GPU Acceleration"
+14 March 2016: Raquel Alegre: "Visualising thousands of ship journeys."
+20th April 2016: Tom Doel and Mark White: "Coding with personal data."
