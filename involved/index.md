@@ -13,7 +13,8 @@ Instant Messaging Forum
 -----------------------
 
 We get together as a community in a [Slack](https://ucl-programming-hub.slack.com/) instant messaging channel on the web.
-Please join us by signing up with an @ucl.ac.uk email address. You can also join our [mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/research-programming) for announcements.
+Please join us by signing up with an @ucl.ac.uk email address.
+You can also join our [mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/research-programming) for announcements.
 
 Coffee Mornings
 ---------------
@@ -38,6 +39,3 @@ These are held monthly, 16.30-18.00, with a format as follows:
 * 1800:      Retire to an appropriate social venue.
 
 You can see the slides from past events on our [talks page](../presentations)
-
-Join our [mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/research-programming)
-and/or the slack forum for announcements of these events.

@@ -15,7 +15,10 @@ under the authority of the
 Join Us
 -------
 
-If you want to join us, please just send a pull request against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
+Anyone can join the steering group!
+
+If you want to help organise the hub, please just send a pull request 
+against [this page](https://github.com/UCLProgrammingHub/web/blob/master/people/index.md) on GitHub.
 
 Membership
 ----------
