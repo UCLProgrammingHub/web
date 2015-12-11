@@ -37,5 +37,7 @@ These are held monthly, 16.30-18.00, with a format as follows:
 * 1710-1800: Discussion of a matter of interest to programming researchers, inspired by the talk, over pizza and drinks.
 * 1800:      Retire to an appropriate social venue.
 
+You can see the slides from past events on our [talks page](../presentations)
+
 Join our [mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/research-programming)
 and/or the slack forum for announcements of these events.
