@@ -1,6 +1,6 @@
 ---
 short: Friends
-title: Non-UCL groups we admire 
+title: Non-UCL Groups We Admire 
 showinmenu: True
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 short: People 
-title: The steering group 
+title: The Steering Group 
 showinmenu: True
 layout: default
 ---

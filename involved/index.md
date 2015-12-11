@@ -1,6 +1,6 @@
 ---
 short: Involved
-title: Get involved!
+title: Get Involved!
 showinmenu: True
 layout: default
 ---
