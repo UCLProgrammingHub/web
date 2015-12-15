@@ -16,7 +16,8 @@ Here are the slides from earlier installments of the Hub's talks series:
 * Dr Marzia Rivi, ["Parallel programming: a brief discussion"](./socials-20151110-rivi.pdf)
 * Dr Ian Sillitoe, ["Scalable Web Engineering at UCL"](./socials-20151014-sillitoe.pdf)
 * Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
-* Dr Dan Buchan, "Stop Writing So Much Code"
+* Dr Dan Buchan, ["Write Less Code"](./socials-20151209-buchan.pdf)
+
 
 Other talks of interest
 -----------------------
