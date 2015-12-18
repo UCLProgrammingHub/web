@@ -42,7 +42,7 @@ You can see the slides from past events on our [talks page](../presentations)
 
 Upcoming events: (Preliminary titles TBC.)
 
-11 January 2016: Derek Groen: "Deploying code to multiple supercomputers."
-11 February 2016: Jeremy Appleyard: "Profiling for GPU Acceleration"
-14 March 2016: Raquel Alegre: "Visualising thousands of ship journeys."
-20th April 2016: Tom Doel and Mark White: "Coding with personal data."
+* 11 January 2016: Derek Groen: " FabSim: facilitating computational research through automation on large-scale and distributed e-infrastructures."
+* 11 February 2016: Jeremy Appleyard: "Profiling GPU Applications."
+* 14 March 2016: Raquel Alegre: "Making sense of geospatial data with CartoDB maps."
+* 20th April 2016: Tom Doel and Mark White: "Working with and anonymising sensitive data."
