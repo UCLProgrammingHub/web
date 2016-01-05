@@ -32,11 +32,11 @@ We're looking for volunteers to lead these events in 2016.
 If you're interested please contact us through the [Slack](https://ucl-programming-hub.slack.com/)
 forum.
 
-These are held monthly, 16.30-18.00, with a format as follows:
+These are held monthly, 17.00-18.30, with a format as follows:
 
-* 1630-1710: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
-* 1710-1800: Discussion of a matter of interest to programming researchers, inspired by the talk, over pizza and drinks.
-* 1800:      Retire to an appropriate social venue.
+* 1700-1740: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
+* 1740-1830: Discussion of a matter of interest to programming researchers, inspired by the talk, over pizza and drinks.
+* 1830:      Optionally retire to an appropriate social venue.
 
 You can see the slides from past events on our [talks page](../presentations)
 
