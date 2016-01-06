@@ -5,7 +5,7 @@ showinmenu: True
 layout: default
 ---
 
-UCL NVidia GPU Research Center
+UCL NVidia GPU Developers' Forum
 ==============================
 
 UCL has been awarded [NVidia GPU Resesearch Center status](https://www.engineering.ucl.ac.uk/news/ucl-named-an-nvidia-gpu-research-centre/), and this is hosted through the UCL Research Programming Hub.
@@ -25,13 +25,26 @@ Related Events
 
 We will be hosting a number of events and training courses related to the GPU Research Center.
 
-The first is a celebratory “Town Hall Meeting”, 1700-1900, on Friday 27th November,
-in the Haldane Room and North Cloisters, UCL. Speakers will include Jack Watts of Nvidia, 
-to introduce the GPU collaboration, and Daghan Cam, of UCL Barlett School of Architecture, 
-to present some examples of UCL research in this space. Formal talks and discussion will conclude at 1800, 
-to enable discussion and networking in the North Cloisters
-over refreshments. Space is limited -- please register through [Eventbrite](http://ucl-nvidia-town-hall.eventbrite.co.uk)
+To celebrate this, and to further discuss how to advance UCL’s work in this area, please join us for a launch meeting between 18:00 and 20:00, on Wednesday 3rd Feb 2016, in Robert building room G.08, and the Engineering Front Building foyer.
 
-Poster pods will be available for researcher groups to present their work using 
-accelerators and GPUs; if you wish to display a poster, please send a copy to j.hetherington@ucl.ac.uk by 20th November, 
-the best poster will receive a small prize from Nvidia. Please print your poster yourself, and feel free to reuse a poster about your research you have displayed before.
+Poster pods will be available for research groups to present their work using accelerators and GPUs; if you wish to display a poster, please send a copy by Friday 22nd January 2016 to James Hetherington (j.hetherington@ucl.ac.uk), the best poster will receive a small prize from NVIDIA. (Please print the poster yourself, or re-use a previous poster).
+
+Space is limited, so please sign up via [Eventbrite](https://www.eventbrite.co.uk/e/launch-of-the-gpu-developers-forum-tickets-20073034988)
+
+Programme:
+
+18:00: Welcome and Introductions – Prof. Sebastien Ourselin, Director of the IBME, TIG (part of CMIC) and the EPSRC CDT in Medical Imaging, UCL.
+
+18:05: “An overview of GPU Computing in Medical Imaging” – Dr. Matt Clarkson, Translational Imaging Group (TIG), Centre for Medical Image Computing (CMIC), UCL.
+
+18:15: “GPU Computing For Robotic Fabrication” – Daghan Cam, Bartlett School of Architecture, UCL.
+
+18:30: “Tsunami simulations: GPU acceleration for uncertainty quantification and visualisation of risk” – Dr. Serge Guillas, Department of Statistical Science, UCL.
+
+18:45: A presentation by Jack Watts from NVIDIA
+
+19:00: Refreshments and Posters
+
+19:55: Award for best poster
+
+20:00: End
