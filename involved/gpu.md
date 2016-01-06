@@ -1,6 +1,6 @@
 ---
 short: Socials
-title: NVidia GPU Research Center
+title: GPU Developers' Forum
 showinmenu: True
 layout: default
 ---
