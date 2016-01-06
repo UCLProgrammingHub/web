@@ -25,7 +25,9 @@ Related Events
 
 We will be hosting a number of events and training courses related to the GPU Research Center.
 
-To celebrate this, and to further discuss how to advance UCL’s work in this area, please join us for a launch meeting between 18:00 and 20:00, on Wednesday 3rd Feb 2016, in Robert building room G.08, and the Engineering Front Building foyer.
+The first of these we will celebrate the award, and further discuss how to advance UCL’s work in this area. 
+
+Please join us for a launch meeting between 18:00 and 20:00, on Wednesday 3rd Feb 2016, in Robert building room G.08, and the Engineering Front Building foyer.
 
 Poster pods will be available for research groups to present their work using accelerators and GPUs; if you wish to display a poster, please send a copy by Friday 22nd January 2016 to James Hetherington (j.hetherington@ucl.ac.uk), the best poster will receive a small prize from NVIDIA. (Please print the poster yourself, or re-use a previous poster).
 
