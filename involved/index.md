@@ -46,3 +46,7 @@ Upcoming events: (Preliminary titles TBC.)
 * 11 February 2016: Jeremy Appleyard: ["Profiling GPU Applications."](https://ucltechsocialfeb16.eventbrite.co.uk)
 * 14 March 2016: Raquel Alegre: ["Making sense of geospatial data with CartoDB maps."](https://ucltechsocialmar16.eventbrite.co.uk)
 * 20th April 2016: Tom Doel and Mark White: ["Working with and anonymising sensitive data."](https://ucltechsocialapr16.eventbrite.co.uk)
+
+We also plan to connect a number of special interest groups in UCL,
+the first one of which is based on UCL's [NVidia GPU Research Center](gpu.html).
+
