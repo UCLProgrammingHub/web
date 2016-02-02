@@ -10,7 +10,7 @@ UCL NVidia GPU Developers' Forum
 
 UCL has been awarded [NVidia GPU Resesearch Center status](https://www.engineering.ucl.ac.uk/news/ucl-named-an-nvidia-gpu-research-centre/), and this is hosted through the UCL Research Programming Hub.
 
-As part of this initiative, UCL RITS hosts a number of NVidia GPUs and other accelerators within the Legion cluster, including a Tesla K80 provided by NVidia through this initiative.
+As part of this initiative, UCL RITS hosts a number of NVidia GPUs and other accelerators within the Legion cluster, including a Tesla K40c provided by NVidia through this initiative.
 For more information about how to access these, see the notes on the
 [Legion User Guide](https://wiki.rc.ucl.ac.uk/wiki/Legion_GPU_nodes) UCL researchers also have access to
 the [Emerald](https://wiki.rc.ucl.ac.uk/wiki/Emerald) GPU cluster.
