@@ -42,7 +42,6 @@ You can see the slides from past events on our [talks page](../presentations)
 
 Upcoming events: (Preliminary titles TBC.)
 
-* 11 January 2016: Derek Groen: ["FabSim: facilitating computational research through automation on large-scale and distributed e-infrastructures."](https://ucltechsocialjan16.eventbrite.co.uk)
 * 11 February 2016: Jeremy Appleyard: ["Profiling GPU Applications."](https://ucltechsocialfeb16.eventbrite.co.uk)
 * 14 March 2016: Raquel Alegre: ["Making sense of geospatial data with CartoDB maps."](https://ucltechsocialmar16.eventbrite.co.uk)
 * 20th April 2016: Tom Doel and Mark White: ["Working with and anonymising sensitive data."](https://ucltechsocialapr16.eventbrite.co.uk)
