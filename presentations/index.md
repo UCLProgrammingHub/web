@@ -17,7 +17,7 @@ Here are the slides from earlier installments of the Hub's talks series:
 * Dr Ian Sillitoe, ["Scalable Web Engineering at UCL"](./socials-20151014-sillitoe.pdf)
 * Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 * Dr Dan Buchan, ["Write Less Code"](./socials-20151209-buchan.pdf)
-
+* Dr Derek Groen: "FabSim: facilitating computational research through automation on large-scale and distributed e-infrastructures."
 
 Other talks of interest
 -----------------------
