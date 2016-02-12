@@ -15,6 +15,7 @@ Recommended Books
 * [Introduction to Algorithms](http://ucl-primo.hosted.exlibrisgroup.com/UCL_VU1:CSCOP_UCL:UCL_LMS_DS001641452)
 * [Numerical Recipes](http://ucl-primo.hosted.exlibrisgroup.com/UCL_VU1:CSCOP_UCL:UCL_LMS_DS000044120)
 * [Beautiful Code](http://www.amazon.co.uk/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-osx-uk-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0596510047)
+* [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1?s=books&ie=UTF8&qid=1455280298&sr=1-1&keywords=feathers+working+with+legacy+code)
 
 Recommended Blogs
 -------------------
