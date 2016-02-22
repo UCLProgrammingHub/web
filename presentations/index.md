@@ -18,6 +18,7 @@ Here are the slides from earlier installments of the Hub's talks series:
 * Dr Ulf Schiller, ["Numerical Approximation, Friend or Foe?"](./socials-20150909-uschille.pdf)
 * Dr Dan Buchan, ["Write Less Code"](./socials-20151209-buchan.pdf)
 * Dr Derek Groen: ["FabSim: facilitating computational research through automation on large-scale and distributed e-infrastructures."](./socials20160111-derekgroen.pdf)
+* Dr Jeremy Appleyard ["Profiling GPU code"](./socials-20160211-appleyard.pdf)
 
 Other talks of interest
 -----------------------
