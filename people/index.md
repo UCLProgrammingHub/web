@@ -34,3 +34,4 @@ The steering group is:
 * [Dr David Wright](http://ccs.chem.ucl.ac.uk/~dave)
 * [Dr Matt Clarkson](http://cmic.cs.ucl.ac.uk/staff/matt_clarkson/)
 * [Dr Tomas Lazauskas](http://www.ucl.ac.uk/klmc/People/Lazauskas.html)
+* [Dr Nikolas Pontikos](http://www.ucl.ac.uk/~rmhanpo)
