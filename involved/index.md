@@ -32,7 +32,7 @@ We're looking for volunteers to lead these events in 2016.
 If you're interested please contact us through the [Slack](https://ucl-programming-hub.slack.com/)
 forum.
 
-These are held monthly, 17.00-18.30, with a format as follows:
+These are held monthly, usually 17.00-18.30, with a format as follows:
 
 * 1700-1740: Short talk on a tool, program, environment, language or technique of general interest to programming researchers.
 * 1740-1830: Discussion of a matter of interest to programming researchers, inspired by the talk, over pizza and drinks.
@@ -42,7 +42,7 @@ You can see the slides from past events on our [talks page](../presentations)
 
 Upcoming events: 
 
-* 20th April 2016: Tom Doel and Mark White: ["Working with and anonymising sensitive data."](https://ucltechsocialapr16.eventbrite.co.uk)
+* 12 May 2016, 1715: Professor Tony Hey : https://ucltechsocialmay16.eventbrite.co.uk/
 
 We also plan to connect a number of special interest groups in UCL,
 the first one of which is based on UCL's [NVidia GPU Research Center](gpu.html).
