@@ -13,7 +13,7 @@ Instant Messaging Forum
 -----------------------
 
 We get together as a community in a [Slack](https://ucl-programming-hub.slack.com/) instant messaging channel on the web.
-Please join us by signing up with an @ucl.ac.uk email address.
+Please join us by signing up with an @ucl.ac.uk email address, or ask us for an invite if you're from a partner institution.
 You can also join the RITS [mailing list](http://eepurl.com/bBs6ov) for announcements. 
 
 Coffee Mornings
