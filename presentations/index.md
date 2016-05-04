@@ -20,6 +20,7 @@ Here are the slides from earlier installments of the Hub's talks series:
 * Dr Derek Groen: ["FabSim: facilitating computational research through automation on large-scale and distributed e-infrastructures."](./socials20160111-derekgroen.pdf)
 * Dr Jeremy Appleyard ["Profiling GPU code"](./socials-20160211-appleyard.pdf)
 * Ms Raquel Alegre ["Making sense of geospatial data with CartoDB maps"](http://slides.com/raquelalegre/maps)
+* Dr Tom Doel ["Data sharing with GIFT-Cloud"](./socials-20160520-tomdoel.pdf)
 
 Other talks of interest
 -----------------------
