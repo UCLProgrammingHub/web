@@ -21,6 +21,7 @@ Here are the slides from earlier installments of the Hub's talks series:
 * Dr Jeremy Appleyard ["Profiling GPU code"](./socials-20160211-appleyard.pdf)
 * Ms Raquel Alegre ["Making sense of geospatial data with CartoDB maps"](http://slides.com/raquelalegre/maps)
 * Dr Tom Doel ["Data sharing with GIFT-Cloud"](./socials-20160520-tomdoel.pdf)
+* Prof Tony Hey ["The Fourth Paradigm: Data-Intensive Science"](./socials-20160513-hey.pdf)
 
 Other talks of interest
 -----------------------
