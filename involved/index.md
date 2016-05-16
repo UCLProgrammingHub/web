@@ -42,7 +42,7 @@ You can see the slides from past events on our [talks page](../presentations)
 
 Upcoming events: 
 
-* 12 May 2016, 1715: Professor Tony Hey : https://ucltechsocialmay16.eventbrite.co.uk/
+* No confirmed dates at this time
 
 We also plan to connect a number of special interest groups in UCL,
 the first one of which is based on UCL's [NVidia GPU Research Center](gpu.html).
