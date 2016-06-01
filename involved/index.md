@@ -42,7 +42,9 @@ You can see the slides from past events on our [talks page](../presentations)
 
 Upcoming events: 
 
-* No confirmed dates at this time
+* [James Geddes](https://ucltechsocialjune16.eventbrite.co.uk/)
+* [Thomas Kluyver](https://ucltechsocialjuly16.eventbrite.co.uk/)
+* [Vince Knight](http://ucltechsocialaugust16.eventbrite.co.uk/)
 
 We also plan to connect a number of special interest groups in UCL,
 the first one of which is based on UCL's [NVidia GPU Research Center](gpu.html).
